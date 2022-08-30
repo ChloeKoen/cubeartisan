@@ -51,14 +51,14 @@
   "devDependencies": {
     "@cubeartisan/client": "workspace:^",
     "@date-io/core": "^2.15.0",
-    "@mui/types": "^7.1.5",
+    "@mui/types": "^7.2.0",
     "@opentelemetry/api": "1.1.0",
     "@opentelemetry/instrumentation-http": "^0.32.0",
     "@types/eslint": "^8.4.6",
-    "@types/node": "^18.7.13",
+    "@types/node": "^18.7.14",
     "@types/react": "^18.0.17",
-    "@typescript-eslint/eslint-plugin": "^5.35.1",
-    "@typescript-eslint/parser": "^5.35.1",
+    "@typescript-eslint/eslint-plugin": "^5.36.0",
+    "@typescript-eslint/parser": "^5.36.0",
     "@yarnpkg/pnpify": "^4.0.0-rc.15",
     "bson": "^4.7.0",
     "csstype": "3.1.0",
@@ -70,11 +70,11 @@
     "react": "^18.2.0",
     "socket.io": "^4.5.1",
     "type-fest": "^2.19.0",
-    "typescript": "^4.7.4",
+    "typescript": "^4.8.2",
     "winston": "^3.8.1",
     "winston2": "npm:winston@2.4.5"
   },
   "dependencies": {
-    "eslint": "^8.22.0"
+    "eslint": "^8.23.0"
   }
 }
